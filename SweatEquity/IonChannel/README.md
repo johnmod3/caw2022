@@ -1,7 +1,10 @@
 # Ion Channel Sweat Equity
 
-John, put stuff here
+Ion Channel Github tooling
+https://github.com/ion-channel 
 
+Support docs here: 
+https://docs.ionchannel.io/ 
 
 ## Return to Sweat Equity
 [return to Sweat Equity](../../SweatEquity)
